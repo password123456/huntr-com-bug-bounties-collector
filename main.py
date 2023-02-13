@@ -142,8 +142,7 @@ def get_huntr_dev(_feed_name, _feed_url):
                           f'> title: {title}\n> link: {link}\n> date: {date}\n' \
                           f'> product: {product}\n> severity: {severity}\n> cve_id: {cve}'
                 message = f'{datetime.datetime.now()}\n\n{message}'
-
-                send_to_telegram(message, '1734664279')    # zq4x 1:1
+                print(message)
                 sys.exit(1)
 
             # if all variables are not empty, continue processing
