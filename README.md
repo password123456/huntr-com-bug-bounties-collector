@@ -14,3 +14,4 @@ Keep watching New bug bounty (vulnerability) postings.
 - Selenium and Chrome web driver were used.
 - Parsing with Beautifulsoup.
 - That's all
+- Please donate a star if it helps.
