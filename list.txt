@@ -1,1 +1,0 @@
-bug_bountry,huntr,https://huntr.dev/bounties/hacktivity
