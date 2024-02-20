@@ -9,8 +9,8 @@ New bug bounty(vulnerabilities) collector
 
 
 # Requirements
-- Chrome with GUI (If you encounter trouble with script execution, check the status of GPU features, if available.)
-- ChromeDriver
+- Chrome with GUI (If you encounter trouble with script execution, check the status of VMs GPU features, if available.)
+- Chrome WebDriver
 
 ![img](https://github.com/password123456/huntr-com-bug-bounties-collector/blob/main/huntr.com.png)
 
