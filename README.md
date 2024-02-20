@@ -1,4 +1,4 @@
-# huntr.dev vulnerabilities crawler
+# huntr.com bugs collector
 New bug bounty(vulnerabilities) collector
 
 ![made-with-python][made-with-python]
@@ -7,13 +7,12 @@ New bug bounty(vulnerabilities) collector
 [pyversion-button]: https://img.shields.io/pypi/pyversions/Markdown.svg
 [made-with-python]: https://img.shields.io/badge/Made%20with-Python-1f425f.svg
 
-# Features
-- get new bug bounties
 
 # Requirements
-- Chrome with GUI
+- Chrome with GUI (If you encounter trouble with script execution, check the status of GPU features, if available.)
 - ChromeDriver
 
+![img](https://github.com/password123456/huntr-com-bug-bounties-collector/blob/main/huntr.com.png)
 
 # Preview
 ```
@@ -46,4 +45,4 @@ New bug bounty(vulnerabilities) collector
 ## Notes
 - This code is designed to parse HTML elements from huntr.com, so it may not function correctly if the HTML page structure changes. 
 - In case of errors during parsing, exception handling has been included, so if it doesn't work as expected, please inspect the HTML source for any changes.
-- In a typical cloud environment, scripts may not function properly within virtual machines (VMs).
+- If get in trouble In a typical cloud environment, scripts may not function properly within virtual machines (VMs).
