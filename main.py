@@ -5,7 +5,6 @@ __status__ = 'Production'
 
 import os
 import sys
-import requests
 import hashlib
 import datetime
 import time
